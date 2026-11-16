@@ -1,0 +1,20 @@
+{
+  "author_names": "Simon Billinge, Andrew Yang, Ran Gu",
+  "author_emails": "sbillinge@ucsb.edu, ayang2@caltech, rgu@nankai.edu.cn",
+  "maintainer_names": "Simon Billinge, Andrew Yang, Ran Gu",
+  "maintainer_emails": "sbillinge@ucsb.edu, ayang2@caltech, rgu@nankai.edu.cn",
+  "maintainer_github_usernames": "sbillinge",
+  "contributors": "Ran Gu, Andrew Yang and Contributors to the program",
+  "project_name": "diffpy.pairdistancemetric",
+  "license_holders": "Contributors to diffpy.pairdistancemetric",
+  "github_username_or_orgname": "diffpy",
+  "github_repo_name": "diffpy.pairdistancemetric",
+  "conda_pypi_package_dist_name": "diffpy.pairdistancemetric",
+  "package_dir_name": "diffpy.pairdistancemetric",
+  "project_short_description": "A distance metric between two distance lists between pairs of point-sets",
+  "project_keywords": "PDF, pair distribution function, distance metric, pair distances",
+  "minimum_supported_python_version": "3.12",
+  "maximum_supported_python_version": "3.14",
+  "project_needs_c_code_compiled": "No",
+  "project_has_gui_tests": "No"
+}
